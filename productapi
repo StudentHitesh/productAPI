@@ -1,0 +1,15 @@
+[
+    {
+        
+        "id": 1,
+        "name":"Shoes",
+        "price":500,
+        "description":"Pooma Shoes",
+        "image":"../../assets/images/shoes.jpg"
+    },
+    { "id":2, "name":"Purse","price":100, "description":"Pooma Purse","image":"../../assets/images/purse.jpg" },
+    { "id":3, "name":"Cloth","price":800, "description":"Ramond","image":"../../assets/images/cloth.jpg" },
+    { "id":4, "name":"Mobile","price":15000, "description":"Real Me" ,"image":"../../assets/images/mobile.jpg"},
+    { "id":5, "name":"TV","price":10500, "description":"LG","image":"../../assets/images/tv.jpg" },
+    { "id":6, "name":"TV","price":20500, "description":"Samsung","image":"../../assets/images/tv.jpg" }
+]
